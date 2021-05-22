@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620278222 source:d:\compsc\web development\c++ project\pyramids\main.c
+	<stdio.h>
+	<stdlib.h>
+
